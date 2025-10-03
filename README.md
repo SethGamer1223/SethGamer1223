@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @SethGamer1223
 - 👀 I’m interested in programming overall
 - 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on Minecraft plugin, Minecraft Fabric, ComputerCraft projects.
 - 📫 How to reach me Discord: sethgamer1223
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am addicted to programming.
+- ⚡ Fun fact: i am addicted to programming. 
 
 <!---
 SethGamer1223/SethGamer1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
